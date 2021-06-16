@@ -1,0 +1,96 @@
+
+
+.body{
+    display: grid;
+    grid-template-columns: 0.05fr 0.45fr 0.45fr 0.05fr ;
+    width: 100vw !important;
+    height: 80vh;
+    font-family: 'PT Sans', sans-serif;
+    margin-top:5vh ;
+    margin-bottom: 5vh; 
+}
+
+
+
+.body img{
+    height: 80vh;
+    width: auto;
+    margin-top: -15px;
+}
+
+.heading-container{
+    font-size: 2.5rem;
+    padding-top: 100px;
+    background-color: #f9f9fc;
+    padding-left: 4rem;
+
+}
+
+.heading-container span{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: #5e3aee;
+    margin-top: 2px;
+
+}
+
+.pencil_icon{
+    font-size: 1.5rem;
+    background-color: #5e3aee;
+    color: white;
+    padding:10px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+}
+
+.heading-wrapper span h1{
+    margin-top: -20px;
+    padding-left: 15px;
+}
+
+.heading-wrapper span {
+    padding-top:1rem;
+    padding-bottom: 1rem;
+}
+
+.heading-wrapper h1{
+    line-height: 5rem;
+}
+
+.man-photo{
+    background-color: #f9f9fc; 
+    padding-left: 8rem;
+    
+}
+
+
+.desc{
+    font-size: 1.1rem;
+    line-height:1.8rem ;
+   
+}
+
+.btn-container input{
+    border: none;
+    background-color: white;
+    padding: 15px 25px;
+    outline: none;
+    width: 25%;
+    margin-right:15px ;
+    
+}
+
+.btn-container button{
+    background-color: #5e3aee;
+    color: white;
+    padding: 15px 20px;
+
+    
+}
+
+.btn-container{
+    padding-top: 1.7rem;
+}
+
