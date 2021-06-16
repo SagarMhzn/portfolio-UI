@@ -26,7 +26,7 @@ export const Body = () => {
 
             </div>
             
-            <div className='man-photo'><img src={Img2}/></div>
+            <div className='man-photo'><img src={Img2} alt=""/></div>
             <div></div>
         </div>
     )

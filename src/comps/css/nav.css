@@ -21,7 +21,7 @@
    
 }
 
-.nav a{
+.nav p{
     padding-right: 30px;
     text-decoration: none;
     color: black;
@@ -32,7 +32,7 @@
 
 }
 
-.nav a:hover{
+.nav p:hover{
     color: rgb(90, 90, 90);
     
     

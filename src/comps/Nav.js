@@ -8,12 +8,12 @@ import {SiInstagram} from 'react-icons/si'
 export const Nav = () => {
     return (
         <div className="nav">
-            <img src={Img1}/>
+            <img src={Img1} alt=""/>
             <div className="nav__links">
-                <a href="#">About  </a>
-                <a href="#">Works </a>
-                <a href="#">Services </a>
-                <a href="#">Contancts </a>
+                <p href="#">About  </p>
+                <p href="#">Works </p>
+                <p href="#">Services </p>
+                <p href="#">Contancts </p>
             </div>
             
             
