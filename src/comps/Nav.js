@@ -10,10 +10,10 @@ export const Nav = () => {
         <div className="nav">
             <img src={Img1} alt=""/>
             <div className="nav__links">
-                <p href="#">About  </p>
-                <p href="#">Works </p>
-                <p href="#">Services </p>
-                <p href="#">Contancts </p>
+                <a href="https://mhzn.netlify.app">About  </a>
+                <a href="https://mhzn.netlify.app">Works </a>
+                <a href="https://mhzn.netlify.app">Services </a>
+                <a href="https://mhzn.netlify.app">Contancts </a>
             </div>
             
             
